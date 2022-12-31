@@ -1,0 +1,19 @@
+{
+  "name": "data-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Du-Contrat-Social/data-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Du-Contrat-Social/data-test/issues"
+  },
+  "homepage": "https://github.com/Du-Contrat-Social/data-test#readme"
+}
